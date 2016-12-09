@@ -1,0 +1,5052 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// **** GLOBAL MESSAGES ARE BELOW ****
+Sorry, not now.
+
+Restore
+
+Cancel
+
+Select a game to restore:
+
+Save
+
+Type a name to save as:
+
+Replace
+
+The save directory is full. You must replace an existing game:
+
+Replace:
+
+With:
+
+Quit
+
+Play
+
+Are you sure you want to quit?
+
+You are carrying nothing.
+
+Talking to yourself is a sign of madness!
+
+You rub your hands up and down your clothes.
+
+Damn, I'm looking good!
+
+// **** DIALOG OPTIONS ARE BELOW ****
+Any second thoughts about this...
+
+Doing some vacuuming?
+
+Have you seen Rufus?
+
+Knuckles got out of his cage!
+
+Knuckles got out of his cage again!
+
+Guess I'll be going.
+
+Where did you leave your hearing aid?
+
+What happened to your cane?
+
+Cool pocket knife, could I see it?
+
+So, what's on TV?
+
+I earned a dollar from Grandma!
+
+I need to get going here...
+
+I heard you took Grandpa to the park this morning...
+
+... so he bought another cane?
+
+... a pocket knife?
+
+Grandma and Grandpa are visiting today!
+
+Could you help me get out of here?
+
+... but Morry and Anderson are waiting for me!
+
+What would it take for you to get me out of this?
+
+I'll leave you to your seclusion.
+
+How much is the Haute Dog?
+
+I'd like to buy a Haute Dog!
+
+You're quite the salesman.
+
+How can you be so excited about a hotdog?
+
+Nevermind.
+
+You liked role-playing games?
+
+You didn't have a dainty ponytail?
+
+You weren't undergoing treatment for melanoma?
+
+You were a weakeling?
+
+You could give me 18 double-odd strength?
+
+I just need to run in for a second...
+
+How could I get a membership here?
+
+I'm not interested...
+
+Could I resume my workout now?
+
+Could I go on that tour again?
+
+Could I check out the locker rooms?
+
+Have you seen Grandpa's hearing aid anywhere?
+
+How was your shower?
+
+This is extortion!
+
+Why don't YOU get your brownies?
+
+Why can't you just give me the hearing aid?
+
+I like your style, Thurston...
+
+I need to get going...
+
+Why is our game cancelled?
+
+Where's Anderson?
+
+Where's Morry?
+
+... curses!
+
+... blast!
+
+I'll round those two up like a pair of 10-siders!
+
+I'm off!
+
+What are you building here?
+
+What's with the walkie talkie?
+
+What was being built here again?
+
+Could you let me back there?
+
+Well I need to get going here...
+
+So what's cookin'?
+
+What kind of stew is it?
+
+I heard you were making brownies today!
+
+Which ingredient were you missing for the brownies?
+
+Are the brownies ready yet?
+
+Have you seen Rufus around?
+
+How do you turn the dishwasher on?
+
+I need to get going here.
+
+That bird has Grandpa's cane!
+
+What kind of drinks are those?
+
+Have you tried one of those Haute Dogs?
+
+I need to get that cane down!
+
+Could I have one of your drinks?
+
+... was the Kaboom! energy bar any good?
+
+Are you done with that drink yet?
+
+What are you doing in here!?
+
+We've got dungeons to conquer, villains to slay!
+
+Put some clothes on, man!
+
+... argh, my eyes!
+
+Don't get too comfortable...
+
+It's ... great?
+
+Could I look around more on my own?
+
+I'm not here to exercise!
+
+How could I get a temporary membership?
+
+I just need a minute to find my friend!
+
+Is this it?
+
+I've seen enough for now...
+
+Could I move on to another exercise?
+
+I'm not sure how I should use this...
+
+I need a break!
+
+What are you listening to?
+
+What's with the cooler...
+
+I'm ready for battle!
+
+Could I borrow that cooler?
+
+When does class finish?
+
+Break that board again!
+
+I brought a board for you to break!
+
+I think there's a draft in here.
+
+I need to go to the bathroom...
+
+You're just standing there...
+
+How many extra batteries did you bring?
+
+I earned a DOLLAR from Grandma!
+
+// **** CONVERSATION MESSAGES ARE BELOW ****
+... Grandpa did lock me in the closet once.
+
+You were playing hide and seek!
+
+... I survived on a cream egg left over from Easter!
+
+... doing some vacuuming?
+
+Yep!
+
+Grandpa let Knuckles out of his cage this morning...
+
+... he made a mess!
+
+... I'm a little worried about him if Grandma's around!
+
+I've been keeping an eye on him...
+
+... he's sleeping in the laundry room right now.
+
+I guess I need to go put him away then...
+
+Okey-doke.
+
+You and Grandpa are going to have so much fun today!
+
+... I CAN'T HEAR A THING WITHOUT MY HEARING AID!
+
+... NOT GETTING ANY OF THAT!
+
+...
+
+... NEXT TIME THAT DURNED BIRD COMES AFTER ME...
+
+... OL' GRAMPS'LL BE READY FOR HIM!
+
+Cool knife, could I see it?
+
+... YOU WANT IT AGAIN?
+
+... I'M GETTING VIDEO, NO AUDIO!
+
+... BY THE WAY...
+
+... DON'T GO LETTING THAT CAT AROUND HERE...
+
+... GRANDMA'S COOKIN' GRUB IN THE KITCHEN!
+
+YOU KNOW HOW THOSE TWO CAN GET!
+
+WHAT WAS THAT, BOY?
+
+... WHAT WAS THAT?
+
+Well, no...
+
+... but he bought a pocket knife for self-defense!
+
+... Grandpa's never been known as a rational thinker. 
+
+That's 1d4 points of damage at best...
+
+Oh, that reminds me...
+
+... your wood sword got put in my room somehow.
+
+Dexcalibur!?
+
+... here take it.
+
+... I had no idea until they barged in this morning.
+
+Could you help me out here?
+
+I have high-stakes Slackmaster action scheduled for today...
+
+... I can't waste time patronizing relatives!
+
+... I don't think you can get out.
+
+Mom's in the other hallway, and Grandma and Grandpa are downstairs!
+
+... but Morry and Anderson are already waiting for me!
+
+... for a GAME?
+
+... I'd do anything for Grandma's brownies...
+
+... too bad she couldn't bake any today.
+
+... have fun!
+
+Special matinee price!
+
+... only ONE dollar!
+
+Great!
+
+That'll be ONE dollar.
+
+Um... I don't have it.
+
+Surely you can afford A DOLLAR...
+
+... for the FINEST junk cuisine has to offer!
+
+I guess so...
+
+... but our 7-Layer Haute Dog nearly sells itself!
+
+Right...
+
+... plus I work on commission.
+
+That explains it.
+
+It's still junk food...
+
+How can YOU not be EXCITED by this AMAZING DEAL!
+
+... LOOK at it...
+
+Now doesn't that look delicious?
+
+... for a hotdog.
+
+... come back SOON! This SPECIAL PRICE won't last LONG!
+
+You liked role playing games?
+
+Err, no...
+
+... only nerds do that stuff.
+
+All I wanted from life was to be bigger, stronger, faster...
+
+... a nice six-pack to stare at in the mirror...
+
+Any of this sound familiar, lad?
+
+I hope you're kidding.
+
+I can tell it's eating you up inside...
+
+... I'll tell you what, mister...
+
+... YOU get yourself a membership at this club...
+
+... and I'll PERSONALLY see to your fitness needs!
+
+We'll have your peers GREEN with envy...
+
+... and the girls falling all over themselves for...
+
+... What was the name?
+
+Jackson, but--
+
+... BIG ACTION JACKSON!
+
+I LIKE the sound of that...
+
+Err, no...  
+
+... it's exotic by the way.
+
+... to examine every bit of muscle in the mirror...
+
+... and I'll PERSONALLY see to all your fitness needs!
+
+... I don't even eat melons!
+
+You were a skinny little weakeling?
+
+Err, no... 
+
+I'm nordic you know...
+
+Interested, eh?
+
+I thought so... 
+
+... I have a knack for these types of closet cases.
+
+... I suppose I could role-play some interest in this place...
+
+I KNEW you were interested!
+
+Let's give you a tour of our facilities...
+
+... you can see everything 25-Hour Fitness has to offer!
+
+Sorry, members only...
+
+... that's the rule around here!
+
+Uh, hehe.
+
+I'd recommend a few sessions with a FITNESS PROFESSIONAL first!
+
+Come back if you change your mind!
+
+Let's get to it!
+
+Sure!
+
+Sorry, we need to protect our members' privacy!
+
+Today's a great day to get fit!
+
+Hmm... let me check...
+
+He was in here earlier this morning...
+
+Yep!  It's right here on my dresser!
+
+I just need to give that to him real quick...
+
+I'll tell you what...
+
+You know how much I love Grandma's brownies, right?
+
+... yeah?
+
+Well, why don't you bring me some of those brownies...
+
+... and I'll TRADE you the hearing aid!
+
+You know how Grandma is with her cooking...
+
+... she won't let you go in there and just take them!
+
+I have Grandpa's hearing aid...
+
+... you need Grandpa's hearing aid...
+
+... I need brownies!
+
+It gives me an excuse not to talk to Grandpa...
+
+... a privelege not easily given up!
+
+Fair enough!
+
+I will bring you the brownies...
+
+... and you will give me the hearing aid, correct?
+
+Agreed.
+
+Later...
+
+Why is our game cancelled!
+
+Morry and Anderson both couldn't make it here!
+
+... the only martial arts place I can think of...
+
+... is the Dojo on the other side of town.
+
+He could be at the 25 Hour Fitness downtown...
+
+... but you need a membership to get in there!
+
+Relax man...
+
+Woah...
+
+... easy there.
+
+I'll round them up like a pair of 10-siders!
+
+You do that.
+
+You do that...
+
+See ya...
+
+My boss likes to MOTIVATE remotely...
+
+... sometimes he can get...
+
+... I'M NOT PAYING YOU TO TALK!
+
+... distracting.
+
+... with an accident bound to happen?
+
+No way!
+
+Ok, see ya later.
+
+What's cookin' Grandma?
+
+Pork butt!
+
+... oh boy.
+
+I was!
+
+... but the store was completely out of my secret ingredient!
+
+... Thurston was crushed when he found out!
+
+What!? 
+
+... give out my secret ingredient?
+
+I don't think so buster.
+
+... let me finish chopping these veggies first!
+
+... I don't want him in here, Jackson!
+
+He's always trying to get into my award winning food!
+
+... he's just friendly!
+
+Make sure the latch is closed!
+
+... don't let Rufus in here on your way out!
+
+Maybe it'll drop if he takes off?
+
+I don't see how he could fly with it...
+
+Oh, they're part of my routine...
+
+... I get up real early to buy a 4-pack of these Mocha Coffee drinks at the store!
+
+I drink two of'em in the morning for breakfast...
+
+... and the other two with whatever I have for lunch.
+
+They really help me get through the day...
+
+... plus I'm probably hooked on the caffeine.
+
+Have you tried a 'Haute Dog', yet?
+
+No way, I eat more healthy than that!
+
+I tried one of the new Kaboom! energy bars today...
+
+... they were running a special at the store...
+
+... I figured, 'That's a good deal, why not try it?'
+
+... Eww!
+
+Maybe it'll drop when he takes off?
+
+Sorry...
+
+... that's my last one!
+
+Let's just say it didn't SIT too well with my ROUTINE...
+
+See ya later!
+
+... I thought I'd get a power workout in today.
+
+This isn't exercising...
+
+... you relaxed in here the whole time!
+
+... I'm too comfortable to think about that stuff.
+
+... you're plainly jealous of this physique.
+
+... I'll be back for you!
+
+Isn't it though!
+
+Ho-ho! Anxious to get started, huh?
+
+Unfortunately, you need to either be a member...
+
+... or have an appointment with a FITNESS PROFESSIONAL...
+
+... to be on the club floor or in the locker rooms.
+
+I'm not here to exercise you n00b!
+
+... I'm needed in the lobby.
+
+You need a session with a FITNESS PROFESSIONAL...
+
+... like myself!
+
+I just need a minute to see if my friend is in here...
+
+If you're not serious about fitness...
+
+... you need to wait in the lobby!
+
+Well, there IS the locker room and suana...
+
+... but that's not really part of the tour.
+
+... you need to beef up, boy!
+
+Alrighty then...
+
+As your personal trainer, I don't recommend it...
+
+... you can work every muscle group on these fitness balls!
+
+I'm not sure how I should use this thing.
+
+Hop on!
+
+... I'm a professional!
+
+... I need a minute to warm up first.
+
+... but it's your free session!
+
+Ok!
+
+... just some mix CD's I burned at home.
+
+The TV hasn't been working...
+
+... so I brought in my portable CD player!
+
+... this counter is normally covered in wrapper and foil!
+
+That's my lunch for today!
+
+... eating junk food without TV doesn't feel right!
+
+We're waiting on Morry and Anderson!
+
+We're waiting on Morry!
+
+We're waiting on Anderson!
+
+That's all I have to eat!
+
+We're just getting started here...
+
+... I'll hammer some discipline into you students, yet!
+
+I don't want to waste another board!
+
+... bring one with you next time...
+
+... I'll smash it in two!
+
+... I think there's a draft in here.
+
+Could I close the door?
+
+Leave my doorstop alone!
+
+... alright, you'll need to go outside to find one...
+
+I need to go to the bathroom again...
+
+... again?
+
+Alright, if nature calls...
+
+YOU AREN'T GETTING BY ME!
+
+... I should know better.
+
+// **** room1.crm (bedroom) MESSAGES ARE BELOW ****
+Finally, a way out!
+
+I need to figure out a way down though...
+
+This bird's gotta fly!
+
+Not so fast there buster!
+
+Whaaaaaaaaa-UUGGH
+
+Oh don't be such a baby.
+
+There's nowhere to climb to.
+
+Jackson...?
+
+... are you there?
+
+Time to get up!
+
+Grandma and Grandpa are here!
+
+... Zzz-snorrrt!!
+
+They're downstairs waiting for you!
+
+Sleeper...
+
+... must ...
+
+... AWAKEN!
+
+Grandma and Grandpa...?
+
+... visiting again?
+
+Grandpa can't wait to see you!
+
+...I'm supposed to meet Morry and Anderson over at the Gameshop today.
+
+We're starting the new Slackmaster campaign Gamekeep designed for us...
+
+... copious amounts of gold, experience, and hack 'n slash action, guaranteed!
+
+... now, if you'll excuse me...
+
+... just a moment there, mister!
+
+Grandpa lost his cane while he was at the park with Thurston...
+
+... and Grandma can't find all the ingredients she needs for a recipe...
+
+I know you wanted to do some QUESTING today...
+
+... but you need to hop in the shower...
+
+but--
+
+...  clean up...
+
+surely you--
+
+... and spend some good, quality TIME in REALITY with your FAMILY!
+
+... I'll be in the other hallway!
+
+... fury, angst, rebellion...
+
+There must be a way OUT of here...
+
+... without being sand-bagged by these kin!
+
+Hey, it's Dexcalibur!
+
+I haven't seen him since my last live action D&D sesh!
+
+Ahh Dexcalibur...
+
+It feels good to have you in my grasp once again.
+
+It seemed like so many sesh's ago that I held you last.
+
+Ooomph.
+
+It's stuck.
+
+Alright!  It's open now.
+
+The lock is loosened and open now.
+
+I think the window is just stuck in the sill.
+
+Not so fast there buster.
+
+My cranium!
+
+I need to get the window open first.
+
+It's already open.
+
+I believe it's a king size.
+
+That's a choice setup.
+
+I don't want to lug that around.
+
+They fill up some empty space on the wall.
+
+The captain's seat.
+
+I've kind of got them in order...
+
+It's only open a crack.
+
+The window is still stuck in the frame.
+
+There's the hallway.
+
+Ok, I've completely stripped the bed down now.
+
+I think this bed has given me enough.
+
+I'm not sure I've ever opened it...
+
+Why disrupt the wonderful musk cultivating in here?
+
+I wonder if this still opens...
+
+Oooomph.
+
+Have at you!
+
+It's no use...
+
+... the lock is shut tight with dirt and grime.
+
+It's already closed.
+
+It portrays a pitched space battle.
+
+... I'm afraid this battlestation is fully operational!
+
+Dexcalibur might not have enough POWER to pry open this window...
+
+... I might just have to provide a little of my own.
+
+I don't play a DARK PALADDIN with 18-DOUBLE-ODD strength for nothing!
+
+Thank you Dexcalibur, but that was all DARK PALADDIN on that one...
+
+... now if I could just figure out how to get down from here?
+
+... I haven't changed my sheets since...
+
+... since...
+
+... better not to think about it.
+
+This should get that dirt and grime off the lock...
+
+... and now the window should...
+
+OOF
+
+... with just a little push...
+
+UUURRRRRGGGH!
+
+... only open a crack.
+
+I can't seem to open it any further...
+
+... it's stuck in the frame!
+
+My old dice are in there.
+
+It's empty.
+
+My old dice are in here!
+
+Nothing too interesting there.
+
+I don't keep anything interesting in the others.
+
+I'm not sure what's in those.
+
+I don't think I'll need anything from there.
+
+I'm letting those appreciate...
+
+I've got the biggest tower in the neighborhood.
+
+It leads out to the hall.
+
+I don't keep anything important that far away from my computer.
+
+I guess it's been a while since I changed sheets.
+
+It leads out to the hallway.
+
+That's an impressive face print and drool stain combination...
+
+Even by my standards.
+
+I hope that's dry by tonight.
+
+It's no use.
+
+The lock is shut tight with dirt and grime.
+
+I can't just jump out the window.
+
+It's alread open.
+
+Not after I spent all that time getting it open!
+
+This room could use a little fresh air anyways.
+
+It should only open and close.
+
+I just got up.
+
+I haven't changed my sheets since...
+
+That wouldn't be long enough.
+
+I don't feel like making my bed.
+
+I don't have time to get on ol' Bessie right now.
+
+She's already been tweaked and optimized...
+
+... for maximum performance and stealth!
+
+It's not a laptop.
+
+There's nothing in important in those.
+
+I don't know...
+
+... that pillow looks pretty used.
+
+I don't necessarily need to batter my way through...
+
+It's not going to help me open the window.
+
+This won't help me open the window.
+
+I think I cleaned it up enough already.
+
+There's no place to tie it on the window sill.
+
+I don't feel like listening to anything.
+
+I don't have a CD in there right now.
+
+I don't think it can help me this time.
+
+I don't have time to get on ol' Bessie right now...
+
+... I can't go back to sleep now!
+
+I don't have time to sit down at the computer now.
+
+I like that where it is.
+
+I'm already dressed.
+
+All the drawers are closed.
+
+They're loud enough for me...
+
+I don't want to take those apart.
+
+The harsh, volcanic landscape of primordial Earth.
+
+I don't want to take it down.
+
+A small island.
+
+That's too heavy to carry around.
+
+I don't turn it on much.
+
+It's bright enough in here.
+
+That's too high up for me to tie this to.
+
+It's just big enough for my computer to sit on.
+
+There's nothing I need to do at my desk right now.
+
+I should try the drawers...
+
+There's nothing interesting on it.
+
+That's just some of the science fiction I've read!
+
+I don't have time to start on a book.
+
+It's a half-empty soda can.
+
+I'll throw it away later.
+
+I'm not drinking it anymore.
+
+I like them where they are.
+
+I won't need to take those with me.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+No hotspot
+
+bed
+
+desk drawers
+
+bookshelf
+
+stereo
+
+comic boxes
+
+computer
+
+wall decorations
+
+chair
+
+dresser
+
+door
+
+garbage
+
+speakers
+
+calendar
+
+map
+
+monitor
+
+light fixture
+
+desk
+
+books
+
+can
+
+window
+
+open window
+
+cracked window
+
+sheets
+
+star wars comforter
+
+pillow
+
+open drawer
+
+// **** room10.crm (kitchen) MESSAGES ARE BELOW ****
+It's held open by the doorstop.
+
+... Rufus!
+
+We meet... again.
+
+Meeow.
+
+Impressive.
+
+Look who woke up this morning!
+
+Hey Grandma.
+
+You can nose around some...
+
+... but don't start getting into things!
+
+You'll only spoil your appetite!
+
+Oh no you don't!
+
+... I know you're coming for the brownies...
+
+... and they're not ready yet, so out, out, OUT!
+
+... Ok! Ok!
+
+I just took one.
+
+Mom loves these things.
+
+I already have one.
+
+To the victor, go the spoils.
+
+Err... I don't think I can leave without Mom catching me just yet.
+
+It's still propped open.
+
+It's covered with random cutesy stuff.
+
+I try to just get in and get out.
+
+Looks like it's fully stocked.
+
+Those are the drinks Mom's hooked on.
+
+Soda is my beverage of choice.
+
+Mmmmm... those look really good.
+
+They're still pretty hot.
+
+The screendoor leads out the side of the house.
+
+Not while it's running.
+
+It'll get emptied tonight.
+
+Some grease on a sponge never hurt anybody...
+
+It's a swinging door that leads into the living room.
+
+We really don't have anything good in there.
+
+I'm not hungry.
+
+It's too big to move around.
+
+Home base in the kitchen.
+
+Why waste the water?
+
+It's not on.
+
+Sounds like it's on.
+
+Looks like Grandma has something cooking on it.
+
+I don't want to mess around with Grandma's cooking.
+
+It's held open now by the doorstop.
+
+Mmmm, those look really good...
+
+That must be Grandma's stew.
+
+Sure looks greasy!
+
+It looks too hot to touch.
+
+I don't want to mess with Grandma's cooking.
+
+Grandma must've been cutting something on it earlier.
+
+I don't need to chop anything up.
+
+I don't think that would accomplish anything.
+
+... This cutting board works great!
+
+... Rufus better not come in here.
+
+... I wish I could make those brownies today!
+
+I'm making brownies today!
+
+It leads outside.
+
+It's already propped open.
+
+It's being held open by the doorstop.
+
+Grandma's cutting something on it right now.
+
+Watch your fingers!
+
+It's right in the middle of the kitchen.
+
+Mom has all kinds of recipes in those books.
+
+I'm not doing any cooking today.
+
+It's just for decoration.
+
+It's really just for decoration.
+
+We put our cookbooks on here.
+
+It's too heavy for me to move around.
+
+The clean dishes dry out there.
+
+I don't have anything that needs to be dried.
+
+I don't need it.
+
+It looks out over the backyard.
+
+They look nice...
+
+... I guess...
+
+They're better off in the sun.
+
+It never really seems to do anything...
+
+I don't need to mess with that.
+
+Lot's of drawers in here.
+
+Grandma's not going to let me take anything out of here.
+
+... everything I need should be out already.
+
+Someone must've used that for breakfast.
+
+Dishware doesn't excite me.
+
+Maybe I should just take them for now...
+
+Make sure you don't let Rufus in!
+
+Don't get into anything!
+
+These legumes will taste great in that stew...
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+refrigerator
+
+sink
+
+dishwasher
+
+stove
+
+median
+
+cookbooks
+
+bowl
+
+shelf
+
+drying rack
+
+plants
+
+stove fan
+
+drawers
+
+plate
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+brownies
+
+greasy pot
+
+cutting board
+
+// **** room11.crm (bedroom hallway) MESSAGES ARE BELOW ****
+Hey, Thurston...
+
+Yeah?
+
+Thurston, are you in there?
+
+Doesn't sound like it.
+
+Alright, Thurston...
+
+... I've got those brownies.
+
+Wow!  Already?
+
+Well, a deal's a deal...
+
+... here's Grandpa's hearing aid!
+
+Hey, Thurston... are you in there?
+
+Thurston, are you in there...?
+
+... doesn't sound like it.
+
+... psst!
+
+... you haven't found a way out yet?
+
+... did I leave anything in the bathroom?
+
+... did Grandma make her brownies?
+
+It goes around the corner.
+
+Those are for decoration.
+
+I don't even really notice it anymore.
+
+The gateway to my inner sanctum!
+
+That's Thurston's room.
+
+I don't think there's anything I can use in there.
+
+There's enough light in here.
+
+I'd rather not make the mess.
+
+It's bright enough outside.
+
+There's never anything interesting in there.
+
+It's my bedroom door.
+
+That's a normal looking ceiling fixture.
+
+It could probably use some water...
+
+It's an antique.
+
+Why knock it over?
+
+It's not really portable.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+exit
+
+candles
+
+cabinet
+
+cracked door
+
+light
+
+plant
+
+table
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+bedroom door
+
+// **** room12.crm (map) MESSAGES ARE BELOW ****
+Gameshop
+
+Home
+
+Construction Site
+
+Park
+
+Fitness Club
+
+Dojo
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+Hotspot 8
+
+Hotspot 9
+
+// **** room13.crm (construction site and outside of gameshop) MESSAGES ARE BELOW ****
+WHAT AM I PAYING YOU FOR?
+
+... YOU CALL THAT WORK?
+
+... YOU'RE NOT A MAN!
+
+I NEED TO DO EVERYTHING FOR YOU!
+
+THIS SITE IS A DUMP!
+
+STAY FOCUSED, YOU!
+
+YOU LITTLE PUNK!
+
+GET BACK HERE!
+
+I'LL SHOW YOU WHAT PAIN IS!
+
+WHY I OUGHT-A...
+
+I'm trying not to hurt myself again...
+
+... I won't get too distracted!
+
+... hey, take it easy!
+
+It's already shut.
+
+... HAMMER FASTER!
+
+WHAT KIND OF A MAN ARE YOU?
+
+I'm not trying to hurt myself here boss!
+
+... Slackmaster is worth it!
+
+Wow! He really flipped out!
+
+... GET BACK HERE!
+
+WE CAN'T LEAVE THIS CONSTRUCTION LOT UNATTENDED!
+
+... YOU BIG BABY!
+
+HEY KID!
+
+... WHAT ARE YOU DOIN' TO MY LABOR!
+
+I don't think I need another one.
+
+It needs a quarter.
+
+I don't think that would help.
+
+It's ready to vend!
+
+HOLD IT RIGHT THERE!
+
+YOU ARE NOT TO TAKE THAT GLUE GUN OFF THIS LOT!
+
+Keep your hands off of me!
+
+He's a noisy one.
+
+No, get away!
+
+It's ready to vend.
+
+There are a couple newspapers in there.
+
+It needs a coin to operate.
+
+It's locked.
+
+Somehow I don't think I'll be able to shake a newspaper out of it.
+
+It's back where I came from.
+
+'To vend, insert coin(s) in slot, and open hatch.'
+
+It's the entrance to the game shop.
+
+It's today's paper.
+
+It opens when you pay the machine.
+
+It's open.
+
+I should grab a paper first.
+
+I should just take one off the pile.
+
+It looks like a glue gun.
+
+I can't use it from here.
+
+I don't need to use it right now.
+
+Breaker, breaker...
+
+I'm not a toy!
+
+I don't think it opens.
+
+It needs to go in the coin slot.
+
+They're attached to the machine.
+
+They must've just started putting this frame up.
+
+I'm don't know much about carpentry.
+
+It looks pretty sturdy.
+
+It hasn't all been put up yet.
+
+I don't want to touch that stuff.
+
+I don't want to mess with it.
+
+I don't want to touch it.
+
+It's an old purple bucket.
+
+I can't think of anything to do with it.
+
+Maybe if it wasn't purple.
+
+It's got a bunch of bricks in it.
+
+It's already full with bricks...
+
+It's too heavy to move with all those bricks in it.
+
+I don't need to take that with me.
+
+Looks like it's just starting to get put up.
+
+I'm a warrior, not a mason!
+
+It's cemented together pretty well.
+
+Everything is cemented together.
+
+Those must be for that wall they're putting up back there.
+
+They're already stacked pretty neatly in there.
+
+I don't want to carry a dirty ol' brick around...
+
+The cement mixture is all dried.
+
+The cement mixture has already hardened.
+
+I wouldn't know what to do with it.
+
+That must be ready to get hammered up.
+
+Dexcalibur is suitable enough.
+
+I think Dexcalibur is enough 
+
+I can see Cliff in there.
+
+It's the street signal for traffic
+
+That's the gameshop.
+
+C:ComicsGames
+
+That's the button for the crosswalk.
+
+... authorized personelle only!
+
+We can't have any more accidents around here!
+
+... THIS IS A CONSTRUCTION ZONE YOU LITTLE MUTANT!
+
+That'll get your attention...
+
+Hello, annoying walkie-talkie...
+
+Grrr! I can't wait to get my hands on you!
+
+... It was convincing enough for ol' Dino.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+coin slot
+
+newspaper machine
+
+instructions
+
+building
+
+insulation
+
+bucket
+
+wheelbarrow
+
+wall
+
+bricks
+
+cement mixer
+
+traffic signal
+
+sign
+
+crosswalk button
+
+newspaper
+
+hatch
+
+glue gun
+
+walkie talkie
+
+ketchup
+
+// **** room14.crm (park) MESSAGES ARE BELOW ****
+Um, I'm still drinking those...
+
+Oh, sorry.
+
+Could I have one of these?
+
+Sorry, that's my last one...
+
+... it looks like there's one available!
+
+It's just an empty package.
+
+Hotdogs!  Get your hotdogs heeee--yuh!
+
+I'm sorry, our ketchup is for paying Haute Dog customers only.
+
+Sheesh.
+
+It leads back the way I came.
+
+... 7-Layer Hotdog... $3.
+
+I should talk to the hireling if I want to order.
+
+It's a napkin dispenser.
+
+My hands are clean.
+
+I don't need one napkin
+
+Let alone a hundred.
+
+I don't need a napkin right now.
+
+Very functional.
+
+I don't need a break yet.
+
+I suppose it's symbolic of something.
+
+I'm not THAT thirsty.
+
+It looks stable.
+
+No-Action Jackson. Created by Britton O'Toole.
+
+I think it's for display only.
+
+Plaques usually don't come in the 'able to pick up' category.
+
+This has got to be Grandpa's cane.
+
+Looks like that's his last one.
+
+It's was a 4-pack of coffee drinks...
+
+It looks like there's one available...
+
+I usually prefer soda.
+
+I need to have it in my hands.
+
+There's no reason to try break it.
+
+I'm more of a soda guy.
+
+I can't open what I don't have.
+
+There's no reason to break it.
+
+A bottle of ketchup.
+
+I think this hotdog has plenty of topping as it is.
+
+I'm sorry, that's for paying customers only.
+
+That bird still has Grandpa's cane!
+
+He must not be able to fly with it.
+
+Nobody's sitting there.
+
+I don't really feel like sitting down.
+
+There's nothing on it.
+
+It doesn't look very full.
+
+I don't have anything I want to throw away.
+
+No thanks.
+
+I think this place just opened a couple weeks ago.
+
+The stand looks sturdy.
+
+'Tommy Bun's Haute Dog'
+
+Sounds fancy.
+
+It's everything I'd expect to see in a hotdog stand...
+
+Chips, soft drinks, pimply face hireling...
+
+I think I should just give the hireling my order.
+
+I can't reach any of that stuff from out here.
+
+Looks like he's been here a while...
+
+... he must not be very mobile.
+
+I'm not touching that!
+
+No.
+
+It's a big tree.
+
+It's a big green tree.
+
+I can't climb it.
+
+It's very sturdy looking.
+
+There are too many branches to climb it.
+
+That would be a nice spot to sit.
+
+I don't need a break!
+
+Could I interest you in a Tommy Bun Haute Dog today, sir?
+
+Seven-layer Haute Dog... only ONE DOLLAR!
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+menu
+
+napkins
+
+bench
+
+monument
+
+plaque
+
+coffee holder
+
+hot dog stand
+
+inside hot dog stand
+
+bird poo
+
+tree
+
+cane
+
+coffee drink
+
+sunflower seeds
+
+// **** room15.crm (Yo Dojo) MESSAGES ARE BELOW ****
+Hmm... it's locked.
+
+... fascinating.
+
+... who'll enter my world of pain!
+
+... owned.
+
+... who is that?
+
+... and now to get Morry.
+
+... I don't need this on anymore.
+
+... that's better.
+
+I know I heard SOMETHING yelling...
+
+... I wonder where it went?
+
+... nobody talks to me like that!
+
+It heads back the way I came.
+
+Something holding it open from the inside.
+
+It's nice and lubricated now.
+
+... YOU LITTLE PUNK!
+
+I should find out where it leads first.
+
+... hello?
+
+Hello?
+
+Looks like he's got the door open now.
+
+It's being held open from inside.
+
+The vent leads back into the air condition machine.
+
+I'm not going to stick my arm in there!
+
+All my gaming experience is with two hands.
+
+A public garbage can.
+
+I'm sure there's all kinds of gross stuff in there.
+
+I don't need to throw anything away.
+
+I'm not sure I want to know what's in there.
+
+It would just mean a big mess for someone to clean up.
+
+Probably me.
+
+I'll leave that for the friendly neighborhood garbageman.
+
+I see Anderson in there!
+
+It looks like he's in class with some other students.
+
+Looks like he's stuck in class.
+
+HEY!
+
+LET MY FRIEND OUT OF THERE!
+
+Doesn't seem like they can hear me.
+
+It runs all the way up the side of the building.
+
+There aren't any openings.
+
+It runs straight down into the air conditioning unit.
+
+It looks too sturdy to manipulate.
+
+Looks like it's on.
+
+I'm sure it's keeping this building cool.
+
+I don't see any sort of controls on the outside.
+
+It looks like the only way in is through that hatch.
+
+It's shut.
+
+It's a small door for the air conditioning unit.
+
+'Free workout at 25 Hour Fitness--
+
+'Inquire inside.'
+
+I guess that's the guy who runs this place.
+
+Looks like a real loon.
+
+It spices up the building a little bit.
+
+I can't reach it.
+
+It a martial arts dojo.
+
+Strange looking poster.
+
+I'd rather leave it on the wall.
+
+It looks healthy.
+
+It doesn't really look climbable.
+
+There isn't any sort of keyhole to tinker with...
+
+Wha...?
+
+... have you seen anything out here harassing my dojo?
+
+... I haven't seen anybody.
+
+Dang it!
+
+It still looks stuck...
+
+Dexcalibur's more of a slashing weapon...
+
+It's lubricated the hatch!
+
+I should open the hatch.
+
+It leads back into the machinery.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+open vent
+
+garbage can
+
+metal shaft
+
+air conditioning unit
+
+poster
+
+awning
+
+vent hatch
+
+grease
+
+vent door
+
+// **** room16.crm (REPLACE) MESSAGES ARE BELOW ****
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+// **** room17.crm (gameshop) MESSAGES ARE BELOW ****
+... what's up, Gamekeep!
+
+... what was that?
+
+One DARK PALADDIN reporting for BATTLE!
+
+... uhhh...
+
+Oh yeah, I was going to say...
+
+... we CANCELLED the Slackmaster campaign today.
+
+What!?
+
+That's where the gamekeep spends most of his day.
+
+I don't need to play with the wires now that the TV's on.
+
+The cable wire is plugged into it.
+
+The TV wire is plugged into it
+
+Hey, the TV is working now!
+
+... what have I done?
+
+Now that it's on, I don't think I need to be messing with the wires anymore.
+
+C'mon, Jackson...
+
+... can't you see I'm using it right now?
+
+I don't think I need to mess with it now that the TV's on.
+
+It's already on.
+
+All the plugs are in the back.
+
+I'm not sure I could get away with that.
+
+I'm not doing any shopping.
+
+... that is my lunch you know!
+
+That's where the cable plugs into.
+
+That's where the TV plugs into.
+
+The cable wire is plugged into the receiver's cable in.
+
+That's the A/V setup for the shop.
+
+The hangar is plugged into the cable in.
+
+The hangar is plugged into the TV in.
+
+It's plugged in all the way.
+
+I don't think adjusting it will help.
+
+I don't want to mess with it now that the TV's on.
+
+That's where the games are played.
+
+It's in good hands.
+
+I'm not sure how to operate that particular type of machinery.
+
+I don't think Cliff would appreciate that.
+
+It's too heavy to move around.
+
+It's not mine to give away.
+
+Even if I wanted to, it's too heavy to grab.
+
+Those are the back issue boxes.
+
+I'm caught up on most of my storylines.
+
+That would just be a huge mess.
+
+It's a bunch of older action figures and models
+
+What? And possibly lower their condition to near mint?
+
+They're for display only.
+
+The case only opens in the back.
+
+I don't need any of those right now.
+
+There's lots of new stuff this week.
+
+I don't have time to flip through those.
+
+And Cliff would get on my case about not buying anything again.
+
+That would just be a big mess.
+
+I've got enough comics for now.
+
+It looks sturdy enough.
+
+I guess there's no other place for them.
+
+What's with the TV?
+
+The cable box broke...
+
+... and the TV won't pick up any channels without an antennae.
+
+You don't have time to watch it...
+
+... you're running our Slackmaster campaign today, remember!
+
+... I WAS... going to run a campaign today!
+
+... unfortunately, we're missing a couple players.
+
+... that exponential XP growth will just have to wait!
+
+It's working fine now!
+
+I'm not sure I can open it.
+
+It's Cliff's CD player.
+
+I'm using that right now.
+
+It's portable...
+
+The cable wire is plugged into the receiver's TV in.
+
+The cable wire is unplugged.
+
+The TV wire is plugged into the receiver's TV in.
+
+The TV wire is plugged into the receiver's cable in.
+
+The TV wire is unplugged.
+
+The hangar is plugged into the receiver's TV in.
+
+The hangar is plugged into the receiver's cable in.
+
+That must be Cliff's lunch.
+
+Could you leave my lunch alone, please?
+
+I could just take it with me...
+
+Hey, I need that lunch!
+
+Even though... it DOES feel a little strange...
+
+... watching TV in the shop...
+
+... with no real... junk food... 
+
+... he's absorbed in the programming.
+
+That's a good deal for that expansion!
+
+No need to start another game going.
+
+... that wouldn't be called for.
+
+I've already got a game going.
+
+It ominously looms over the entrance.
+
+I don't have anything to ring up.
+
+That won't move around.
+
+It's a glass display case.
+
+I'm not shopping for memorabilia.
+
+It won't move.
+
+It looks back out on the street.
+
+I don't need any of those.
+
+They just hang on the wall.
+
+... ooh, ooh, baby!
+
+... are you going to buy anything today?
+
+... I miss junk food and television!
+
+... this... is great...
+
+... could we... do this... some other time...?
+
+... I suppose... network TV ... will suffice...
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+Signal In
+
+TV Out
+
+receiver
+
+War Room sign
+
+counter
+
+glass counter
+
+boxes
+
+hangar
+
+register
+
+back issues
+
+figurines
+
+posters
+
+new comics
+
+display shelf
+
+random books
+
+display
+
+tv
+
+CD player
+
+cable wire
+
+tv wire
+
+cooler
+
+// **** room18.crm (25 hour fitness) MESSAGES ARE BELOW ****
+That was the tour!
+
+... back to work, I guess.
+
+... come back when you're ready to get fit!
+
+... now to get Anderson!
+
+Hmm... 
+
+I wonder where Morry is...?
+
+Hello, and welcome to 25-Hour Fitness!
+
+Today is a Grrr-eat Day to Get in Shape!
+
+Just let me see that membership card...
+
+... and you can get your workout started!
+
+Silence!
+
+There's no workout being started here...
+
+... I'm trying to get my friend out of this place!
+
+We have a Slackmaster game to...
+
+Where is he...
+
+... back here?
+
+Umm, sir...
+
+Uhh... hehe...
+
+Yeah, um...
+
+... I can't let you in without a membership card.
+
+A membership card?
+
+Yeah, they're kind of... required.
+
+I refuse to interact with it.
+
+It's a big, pink, rubber ball.
+
+Looks like there's a tiny hole used to fill it up with air on it.
+
+It's only discernable weakness.
+
+You shall prove a formidable foe, oh rubber ball.
+
+Not likely.
+
+Victory is mine!
+
+Oh, I'm afraid it's useless now that it's been slain.
+
+Look, someone over there is mocking the pink ball!
+
+Who would do such a despicable thing.
+
+Muhahaha
+
+Gee, they must have ran off.
+
+Well anyways, back to...
+
+I think I sat on it too hard.
+
+That's strange, those balls were designed to hold the weight of a 500 lb. fat person.
+
+I'll have to talk to our distributor about that.
+
+We'll miss you, pink ball.
+
+We'll miss you.
+
+Anyways, is there any other equipment in here you want to try out?
+
+That's not the big pink ball!
+
+Listen I've got other things to be doing in here...
+
+Well you've seen what 25 Hour Fitness has to offer.
+
+The tour is finished.
+
+Pretty cool, huh?
+
+Hardly.
+
+This primitive apparatus looks promising.
+
+Step aside boy.
+
+Let a real man show you how it's done.
+
+Oooh.
+
+That felt good.
+
+Oh sweet lord.
+
+I've become a weakling.
+
+<sob>
+
+Is that person using the cardio equipment properly?
+
+Where?
+
+A little dab on the bar should do quite nicely...
+
+I swear more people hurt themselves that way than...
+
+Hmm.  Everything looks ok in there.
+
+Don't worry lad...
+
+...you'll be familiar with all the proper protocol and procedures when I'm finished with you.
+
+You won't make these stupid mistakes again.
+
+Uh... hehe...
+
+I'm sorry, those aren't free samples.
+
+Oh.
+
+The locker rooms and sauna are for members only!
+
+It leads back into the locker rooms.
+
+It leads out of the buildling.
+
+That's where all the workout stuff is.
+
+I doubt he knows how to operate it.
+
+I've got my own computer if I wanted to do that.
+
+They'd probably make me pay for it.
+
+It's attached to the desk.
+
+It's a big pile o'supplement.
+
+I don't need a sample.
+
+I don't need to do that.
+
+You can't take that.
+
+'Kaboom! High Performance Dietary Supplement'
+
+I don't want any.
+
+The Kaboom display is on it.
+
+That would just knock everything over.
+
+'Tired of exercising...'
+
+'... and not getting those results you were looking for?'
+
+'Try Kaboom! fitness supplement-- FREE!!'
+
+'(see ad in your local paper)'
+
+It's just an ad.
+
+I don't think the ad itself is worth anything.
+
+I suppose this is where the gatekeeper sits.
+
+It's not my desk.
+
+It's an ad for 25-Hour Fitness.
+
+That's not a poster I would want on my wall.
+
+'Kaboom! fitness supplement'
+
+That stuff rocks hard!
+
+Check out our display by the locker room.
+
+I'd rather just ignore it.
+
+I'm guessing it seperates this entrance from the club floor.
+
+No one's in there right now.
+
+No one is using it right now.
+
+... sure!
+
+Sorry, members only!
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+club floor
+
+locker room
+
+computer screen
+
+display table
+
+weights
+
+display sign
+
+padded wall
+
+aerobics room
+
+thigh machine
+
+hotspot
+
+Kaboom! fitness supplement
+
+// **** room19.crm (inside Yo Dojo) MESSAGES ARE BELOW ****
+... and incapacitate the foe with--
+
+... ?
+
+... did someone have a question?
+
+I thought I heard something...?
+
+... keep practicing those meditative exercises, students!
+
+... I'm breaching compound security in case a student is late!
+
+... and drop repeated blows to the--
+
+... I'm not letting it bother me.
+
+... and repeatedly kick the testicles with--
+
+... I KNOW I didn't just hear THAT!
+
+... so with that in mind--
+
+No... I'll show YOU!
+
+... so students...
+
+You must master the MIND...
+
+... before you may wield the BODY!
+
+... observe!
+
+... any questions?
+
+It's held open by that doorstop.
+
+The chair is in front of it.
+
+It's held open by the door stop.
+
+The chair is now propped in front of the door.
+
+Alright, back to work!
+
+Hey!
+
+Leave my doorstop be, or I WILL perpetrate you!
+
+... guess that means I need to put it back.
+
+I don't feel like sitting down.
+
+I don't think he'd mind if I moved this around.
+
+... it's holding the door open.
+
+One should be enough.
+
+... and thusly, leaving your opponent crippled and unconscious...
+
+... and stomp the groin, like... SO!
+
+... Anderson, why don't you help me demonstrate this next hold?
+
+... nobody will push you around with these lessons!
+
+... can anybody tell me what he's doing wrong?
+
+... just grab the arm and twist, like ... SO!
+
+Students only!
+
+... but we have a--
+
+... you can wait in the reception area!
+
+... how long is this class?
+
+... now let's return to the lesson, class.
+
+... very timely.
+
+... a late student?
+
+Sorry, the class has already started...
+
+... try to make it earlier next time!
+
+... I could use a distraction.
+
+You can't leave early!
+
+... back to the lesson!
+
+... Jackson, what are you doing here?
+
+What are YOU doing here...
+
+... we had Slackmaster scheduled today!
+
+... FOCUS!
+
+Now, does anyone have a question about what we're doing here?
+
+Um, I have a question...
+
+... lay it on me!
+
+Alright, now that we have everyone here...
+
+Um... I have another question.
+
+Ok...?
+
+That seat looks available.
+
+I don't need to take a seat.
+
+... that was horrible.
+
+The chair is propped in front of it now.
+
+It's being held open by that doorstop.
+
+It's a doorstop.
+
+It's already holding the door open.
+
+That must be the front desk.
+
+'Good for one FREE personal training session at 25 Hour Fitness!'
+
+There's nothing interesting in there.
+
+I don't think he'll let me go through his desk.
+
+'... take a card for a FREE personal training session at 25-Hour Fitness!'
+
+I just need to take a card, not the whole poster.
+
+It looks comfortable enough...
+
+It looks too heavy to move around.
+
+That looks too heavy to move around.
+
+It's a punching bag.
+
+I'm not much of a pugilist.
+
+I don't really want to touch it.
+
+Looks like they're setup for breaking boards.
+
+I can't break anything on there!
+
+I think they're fine upright.
+
+They would be too heavy to carry around.
+
+It looks out onto the street.
+
+It's so dainty!
+
+No reason to smash it.
+
+I don't need miniature trees.
+
+It occupies some space on the desk.
+
+I don't need to clear it off.
+
+I don't need any of that stuff.
+
+Pretty impressive.
+
+I don't want to mess up his arrangement.
+
+Nobody is using them right now.
+
+I don't have time for stretching!
+
+I don't have time for stretching.
+
+That's probably for practicing tough combo's and finishing moves.
+
+I wouldn't know where to start.
+
+It's a weapon rack.
+
+I don't like to grab things from the foreground...
+
+That must be where the outside vent ends up!
+
+That must be the stock of boards to break.
+
+I can't break boards.
+
+It's the chair for the desk.
+
+I'll just leave that where it is.
+
+They keep it interesting enough in here...
+
+That's an interesting color...
+
+I can't break those things!
+
+Great board you got here Steve-o.
+
+Thanks!
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+card
+
+couch
+
+punching bag
+
+cinderblocks
+
+bonzai tree
+
+desk clutter
+
+trophies
+
+floor mats
+
+practice dummy
+
+weapon rack
+
+air conditioning vent
+
+boards
+
+desk chair
+
+door stop
+
+wood
+
+// **** room2.crm (REPLACE) MESSAGES ARE BELOW ****
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+// **** room20.crm (sauna) MESSAGES ARE BELOW ****
+What the...!?
+
+Oh hey, Jackson!
+
+You have a membership at this club, too?
+
+It's time to leave, Morry...
+
+... Nooooooo!
+
+... it's nice and warm in here!
+
+What's the big hurry?
+
+I just wanna relax...
+
+It leads back to the club...
+
+Green shorts...?
+
+I'm definitely not changing into those.
+
+No pockets.
+
+I'm not touching them!
+
+It's a sweaty old basketball jersey.
+
+No way am I touching that!
+
+No way.
+
+Those stones are red hot!
+
+They look way too hot to touch.
+
+They're too hot to handle!
+
+It holds those red hot rocks!
+
+Those rocks aren't so hot now.
+
+There are already some rocks in there.
+
+Those rocks look blazing hot...
+
+I'm going to leave them in there.
+
+They're are plenty of seats available.
+
+I don't want to sink to his level!
+
+That's not where the heat is coming from.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+steam basin
+
+benches
+
+mustard
+
+relish
+
+hot rocks
+
+jersey
+
+shorts
+
+cold rocks
+
+// **** room21.crm (REPLACE) MESSAGES ARE BELOW ****
+Help me Jackson!
+
+I've been on this stupid machine for over 40 minutes already!
+
+Hello Jackson, I didn't know you belonged to this club.
+
+Morry and I are getting a little exercise in this weekend.
+
+We're determined to get in shape!
+
+She's crazy!
+
+I'm completely accepting of healthy figure!
+
+Sorry Jackson...
+
+We can't talk right now!
+
+We must become one with the machine!
+
+Get me out of here!
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+cardio biker
+
+// **** room22.crm (intro) MESSAGES ARE BELOW ****
+... and FINALLY, after rescuing both of you...
+
+... we're ready to get some GAME time in today!
+
+Hey, EXERCISE is hard work!
+
+... you can't snap ME out of the ZONE!
+
+I was learning how to groin stomp!
+
+... after careful THOUGHT and MEDITATION!
+
+You DON'T UNDERSTAND what I've been DOING all morning...
+
+... just to get some hack-n-slash ACTION in today!
+
+... and so, after regaining FULL CONSCIOUSNESS...
+
+... I peeled myself off the cement, and pushed on...
+
+... UNDETERRED and UNDAUNTED!
+
+She DROPPED you from a window?
+
+... wow, that had to HURT!
+
+... what DISCIPLINE!
+
+What did you DO when we WEREN'T THERE?
+
+... WHAT!?  You mean he bought that RUSE?
+
+... he wasn't the sharpest TOOL on that lot!
+
+... why did you MANIPULATE him, again?
+
+... to get a CLEAR PATH at his MASTER!
+
+What does this have to do with US!
+
+... where's the ACTION!
+
+What happened to his cane just doesn't make SENSE!
+
+Geez, how about a little UNDERSTANDING here...
+
+... this WASN'T as EASY as it sounds!
+
+... so that's what he HEARD!
+
+I thought he'd just HIT his head ONE-TOO-MANY times.
+
+How did you REACH Anderson and get him OUT of there?
+
+Guys, that's only HALF of the story!
+
+At least I WANTED TO LEAVE!
+
+... but it was so WARM and RELAXING!
+
+... as FATE would have it, Anderson did not put up as much of a FIGHT...
+
+... c'mon, I was MENTALLY FATIGUED!
+
+At least I COULD RELAX whilst awaiting my RESCUE!
+
+... argh! I never learned a good way to FINISH someone!
+
+As FATE would have it, Morry was a little more STUBBORN...
+
+... c'mon, I was PHYSICALLY DRAINED!
+
+... and that's how the PROCESS came to an END!
+
+I never learned a good way to FINISH someone!
+
+... it was so WARM and RELAXING!
+
+... hey guys!
+
+... could I... DO this THING... some OTHER time?
+
+... but was it really WORTH the ENERGY?
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+Hotspot 1
+
+Hotspot 2
+
+// **** room23.crm (cutscene 1 (out window)) MESSAGES ARE BELOW ****
+Well, well, well...
+
+Looks like I caught you with your hand in the cookie jar!
+
+I'll let you play with your friends for a while.
+
+Just make sure you spend some time with your Grandparents today!
+
+Durrp.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+// **** room24.crm (fitness club floor) MESSAGES ARE BELOW ****
+... want to hop on this one over here?
+
+Ooh, that one over there is ALWAYS a nice workout!
+
+... I'll miss that fitness ball!
+
+Sooo, just hop on there when you're ready...
+
+... whenever you're ready to get started.
+
+These fitness balls are GREAT!
+
+... this time I've got it!
+
+I may need a spot on this one...
+
+... am I coming down with something?
+
+Ok... one more time!
+
+... maybe I need to get my chest warmed up.
+
+... I have been working out all day...
+
+... just a small setback!
+
+I need to go...
+
+Come back and we'll pick up right where we left off!
+
+Alright!
+
+Now where to start...?
+
+... there's so much great stuff in here!
+
+... I don't see Morry over here...
+
+Ok...
+
+... over here, we have some of our leg machines!
+
+... I don't really use these that much...
+
+... but the ladies really like'em so it's sort of a...
+
+... uh...
+
+A catch-22?
+
+Yeah!... One of those things!
+
+Listen, I'm...
+
+Oh don't worry, sport!
+
+... we have more than just machines!
+
+... but I--
+
+Check this one out, my personal favorite...
+
+... the BENCH PRESS!
+
+This is GREAT for showing everyone how strong you are...
+
+... use a workout partner for best results!
+
+... Hey!
+
+Count'em out for me, partner!
+
+One..?
+
+Two..?
+
+Um, I'm moving on...
+
+Wow, I like your enthusiasm!
+
+... this is great...
+
+It's EXACTLY what I had in mind for you!
+
+These fitness balls are AMAZING!
+
+You could work every muscle group on this bouncing beauty!
+
+... I don't see Morry anywhere.
+
+So, what do you think?
+
+Catch-22, remember?
+
+Right!
+
+My personal favorite, the bench press!
+
+... and, of course, these amazing FITNESS BALLS!
+
+... I don't see Morry in here.
+
+I know right where we should start...
+
+... the fitness ball!
+
+We can do your entire workout on this!
+
+Now where should we start...?
+
+Woah! Is she using that leg machine IMPROPERLY?
+
+W-Where!?
+
+WHERE!?
+
+Mmm, that felt good.
+
+Um...
+
+... I think I broke it.
+
+Huh?
+
+These fitness balls are designed to withstand the weight of a 500 lbs. fat person!
+
+Well at least we'll have time to check out the locker rooms!
+
+We're not ready to hit the showers, yet!
+
+This is a great opportunity to use the REST of the equipment!
+
+This sure is a great facility!
+
+Yeah... just LOOK at it...
+
+I already put some glue on there.
+
+What's this one all about...?
+
+No, no, no...
+
+... you've got it all wrong!
+
+... let ME show you how that's to be DONE!
+
+What a whimpy whimp...
+
+No, no... I'll do it!
+
+... you're doing it all wrong!
+
+Let ME show you how that's to be done...
+
+See how rewarding that is!
+
+I'm impressed on the inside...
+
+It's a big pink fitness ball.
+
+Not a chance.
+
+I don't want to encourage him.
+
+I don't see any way to deflate it...
+
+I can't close that.
+
+I'm not taking that with me.
+
+It appears to be some sort of BENCH with a set of weights...
+
+...to be PRESSED over one's chest.
+
+Doesn't look like anyone is on it right now.
+
+Hey, what're you doing?
+
+You can do it better on the ball!
+
+I don't want to get my legs too tired!
+
+I don't really want an ab workout...
+
+Those must be popular.
+
+It must be some sort of abdominal workout...
+
+I really don't want to get on that.
+
+That must be the aerobics room.
+
+I don't really want to go in there...
+
+It's probably fake.
+
+I don't need to dig around in it.
+
+There's nothing special about it.
+
+What do you need to go over there for?
+
+You got everything you need right here!
+
+They probably keep them locked.
+
+It's the weight rack.
+
+They all look pretty heavy.
+
+Ho-ho we can get to those later...
+
+... let's get some work done on the fitness ball first!
+
+I don't think I'm strong enough to lift that.
+
+... there's more of them?
+
+Hold on there partner...
+
+... we've already got one out!
+
+I don't want to get another one out!
+
+It holds the fitness balls.
+
+It looks sturdy.
+
+They keep it bright in here.
+
+Nobody's on them right now.
+
+It seperates the floor area from the entrance.
+
+It looks to heavy to move.
+
+Hey! The fitness ball is over here!
+
+We'll move on after we're through with it!
+
+I slayed it.
+
+It's not very useful without air.
+
+I don't need to be hauling a corpse around.
+
+I don't think that could do enough damage.
+
+There's not really a hole to poke it in.
+
+It doesn't need to be glued.
+
+It leads back to the front desk area.
+
+More weight room equipment over there.
+
+There's enough equipment to choose from over here.
+
+I can't lift that bar!
+
+... he needs to focus.
+
+He'll be working on that for a while...
+
+Someone's on it right now.
+
+I don't think he wants help.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+leg machine
+
+weight room equipment
+
+floor plant
+
+leg lift machine
+
+sit-up machine
+
+weight rack
+
+free weight
+
+fitness ball
+
+ball rack
+
+bench press
+
+dead ball
+
+// **** room3.crm (living room) MESSAGES ARE BELOW ****
+Stupid vacuum.
+
+I don't think I want to start vacuuming.
+
+I need to get to the game shop!
+
+I wouldn't want to take Mom's favorite toy.
+
+... WHERE'S THE ENTERTAINMENT!
+
+... THESE ANKLES AREN'T GOING TO MASSAGE THEMSELVES!
+
+... IF I EVER SEE THAT BIRD AGAIN!
+
+I'm gonna...
+
+Fsck!  Fsck!
+
+My legs!
+
+YOU...
+
+Raaaaaawwwr.
+
+Arrgghh!
+
+Get over here!
+
+Are they finally done in there?
+
+He can be fairly protective when he's eating.
+
+I guess he's not done eating yet.
+
+Reeeeeoooowwrr!
+
+Oh, c'mon Rufus!
+
+It's just a vacuum!
+
+He's never liked vacuums.
+
+This might be a while...
+
+Back already?
+
+I'm having trouble rounding up the troops!
+
+Grandma's in the kitchen...
+
+... Grandpa's watching TV in the other room...
+
+... and Thurston is upstairs in the shower!
+
+It doesn't need to be left open.
+
+WHERE'S THE VOLUME FOR THIS THING?!
+
+ALRIGHT, I'M READY TO GO UPSTAIRS NOW!
+
+THESE COMMERCIALS AREN'T FUNNY!
+
+C'mon Rufus...
+
+HEY, RUFUS!
+
+... CHECK THIS ACTION OUT!
+
+Meeeooooowwwwrr!
+
+... THAT'S ONE WEIRD CAT!
+
+... that's one weird Grandparent.
+
+... here Rufus!
+
+-snort-
+
+... he was out of options.
+
+I think I should just leave it open for now.
+
+It's propped open now.
+
+This must have fallen out of his pocket when he stood up!
+
+They lead upstairs.
+
+I should just go in if I need to talk to someone in there.
+
+It leads back into the laundry room.
+
+Doesn't look like we're going to be eating any time soon.
+
+Finishing the game will have to take priority over breakfast today.
+
+There's nothing to be picked up.
+
+It's another nice day outside.
+
+I'm through messing around with windows.
+
+There's nobody outside to yell at.
+
+It's for writing down phone messages and notes.
+
+I can't think of anything clever enough to write on it.
+
+I think it's better off on the wall.
+
+It's a telephone.
+
+I don't need to call anyone right now.
+
+I don't need to talk to anyone on the phone right now.
+
+I can't get distracted with that right now.
+
+It's a little big to be carrying around.
+
+These couches are great.
+
+I don't need to rest these spry legs just yet.
+
+There's anything under the couch.
+
+I check under the cushions for change all the time.
+
+Nothing but a couple magazines on it.
+
+There's nothing to pick up.
+
+I don't think I should move it.
+
+It's really only useful to set things on while you're watching television
+
+Some old family pictures.
+
+I don't think anyone outside of family and friends needs to see these.
+
+Oh you rogue, you.
+
+Yep, that's me.
+
+Mirror, mirror, on the wall
+
+Who's the most l33t gamer of them all?
+
+I don't want to accidentally break it.
+
+I can't afford any more bad luck at the gaming table.
+
+It's a swinging door that leads into the kitchen.
+
+I can just go in the kitchen if I need to talk with someone.
+
+It's the doorstop I got from Steve's.
+
+What better place for a doorstop than holding a door open?
+
+Some sunflower seeds fell on the ground when I pushed the flower.
+
+Looks like his pocketknife slipped out of his pants when he stood up.
+
+HEY, BOY!
+
+I'VE BEEN WAITIN' FOR YOU TO DRAG YOUR TAIL IN HERE!
+
+NOW, COME OVER HERE AND SIT A SPELL WITH GRAMPS!
+
+sigh.
+
+Listen Grandpa, I can't really sit down right--
+
+--NOPE!
+
+CAN'T HERE YA!
+
+... TOOK MY HEARING AID OUT...
+
+... CAN'T FIND IT WITHOUT MY CANE!
+
+There's nothing important in there.
+
+I don't want to mess up anything in the livingroom.
+
+It's just sitting next to the TV.
+
+I don't need any plants.
+
+I don't want to mess up the livingroom
+
+I'd rather just leave it there.
+
+It's colorful.
+
+I walk on it anytime I want.
+
+I know there's not anything under there.
+
+YOU'RE BLOCKING THE TUBE, BOY!
+
+DON'T LET THAT CAT IN HERE!
+
+CAN'T YOU SEE I'M WATCHING TV HERE!
+
+Can't you stay in one place?
+
+Try not to make a mess upstairs...
+
+Back again?
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+laundry room
+
+stairs
+
+carpet
+
+white board
+
+telephone
+
+television
+
+stool
+
+coffee table
+
+pictures
+
+mirror
+
+record case
+
+vacuum
+
+doorstop
+
+pocket knife
+
+// **** room4.crm (laundry room) MESSAGES ARE BELOW ****
+Laundry's not my thing.
+
+Looks like some change fell out in here.
+
+It's empty now.
+
+There's nothing in there now.
+
+I don't want to do the laundry right now.
+
+It looks like some change fell out in there.
+
+The washing machine is empty now.
+
+There you are, Rufus!
+
+Always glad to see me!
+
+The door is already closed.
+
+I don't think I need to mess with it anymore.
+
+Wet clothes aren't interesting.
+
+It leads back into the living room.
+
+It's a nice day out there.
+
+An unused wire hangar.
+
+It's our clothes dryer.
+
+That would require herculean strength.
+
+It's our washing machine.
+
+Looks reliable enough.
+
+I'll let Mom handle the ironing.
+
+I don't want to lug that around with me.
+
+I'm not interesting in doing laundry.
+
+It's fine where it is.
+
+I don't want to do laundry right now.
+
+None of MY clothes came through here.
+
+I think my current outfit is doing fine.
+
+I can take them upstairs later.
+
+Looks like it just got emptied today.
+
+I don't have anything I'd want to throw away.
+
+Why make a mess?
+
+There's nothing in there.
+
+I don't have an immediate use for it.
+
+Sure is dark in there.
+
+It looks like a coin fell out in there.
+
+Looks like a coin fell out in there.
+
+It's a coin.
+
+It must have fallen out of someone's clothes.
+
+Clothes get hung up on there after they're dry.
+
+I don't need to hang anything up.
+
+I don't need to knock it over.
+
+I definitely don't need the whole rack.
+
+I don't have much experience with the stuff.
+
+I don't need to do the laundry.
+
+That would just make a mess.
+
+It belongs in the laundry room.
+
+I guess it doesn't get used much.
+
+I don't even know how to use bleach.
+
+It would be more trouble than it's worth.
+
+There's nothing on there.
+
+There aren't any drawers.
+
+Looks like they run upstairs and into the kitchen from here.
+
+They look like they're already working.
+
+They look way too strong to bend.
+
+They're securely fastened to the wall.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+clothes
+
+laundry basket
+
+dryer
+
+ironing board
+
+washing machine
+
+clothes rack
+
+laundry detergent
+
+bleach
+
+water pipes
+
+dryer door
+
+quarter
+
+// **** room5.crm (upstairs hallway) MESSAGES ARE BELOW ****
+Squuaaaaaawk.
+
+I can't go in there, that's my Mom's room.
+
+Grandma and Grandpa are downstairs Jackson.
+
+You don't need anything in there.
+
+Rats.
+
+I can't go in there, that's my parents room.
+
+Dang.
+
+... see, it's not that hard to get him back in his cage!
+
+It takes more time for me to vacuum up the birdseed that he spills...
+
+... there has to be a way out of this without going down there.
+
+... on your way to the shower, I see!
+
+This isn't amusing.
+
+Squaaaaaaaaaawwwwwwwk!
+
+Aaaack!
+
+... squawk.
+
+THURSTON?
+
+ARE YOU IN THERE?
+
+He usually just stays around his cage.
+
+I don't want to ruin the cage.
+
+They lead downstairs.
+
+Pick up stairs?
+
+I wouldn't even know where to begin.
+
+I don't need to talk to anyone down there.
+
+Loos like Grandma and Grandpa are staying in the guest room.
+
+Hello guestroom!
+
+It's the guestroom door.
+
+Open sesame!
+
+Didn't seem to work.
+
+Thurston must be using the shower.
+
+It's the bathroom door.
+
+Hey Thurston!
+
+Hurry up in there!
+
+You're using all the hot water!
+
+Save some for the whales!
+
+You poohead.
+
+There's no one in there.
+
+It's the bathroom.
+
+It wouldn't have anything interesting to say.
+
+Right Mr. Bathroom?
+
+The cage needs it more than I do.
+
+The cage door is wide open.
+
+That's my Mom's room, it's off limits.
+
+No ones in there.
+
+It leads back down the hall.
+
+It looks nice enough.
+
+That stuff's just good for decoration.
+
+Seems like those pictures have been up there forever.
+
+They're better off on the wall.
+
+They get bumped enough as it is.
+
+Knuckles has a lot of stuff in there to play with.
+
+It's a little too small for me.
+
+I don't want to knock the whole cage over.
+
+There's no way to unlock these doors from the outside.
+
+Believe me, I've tried.
+
+It's there for the birdcage to sit on.
+
+I don't need to knock the whole cage over.
+
+We don't keep anything in there.
+
+It looks a little weak.
+
+That's just an old family photo.
+
+I don't need that.
+
+It must be fine china.
+
+I'd rather not touch it.
+
+It blocks off the stairwell.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+bird cage door
+
+cabinet top
+
+stairwell marginalia
+
+bird cage
+
+picture
+
+stair banister
+
+// **** room6.crm (bathroom) MESSAGES ARE BELOW ****
+I'm not taking a shower.
+
+The curtains are already closed.
+
+Who doesn't need a doorstop?
+
+GIMME A SEC...
+
+... I'M IN THE SHOWER!!
+
+I'm starting to run out of hot water in here...
+
+WOA-WOAH-C-C-COLD!!
+
+Yikes! ... We're out of hot water already?
+
+Elegant, clean, porcelain...
+
+... everything I look for in a toilet.
+
+I don't have to go right now.
+
+I prefer to let the inner workings of a toilet remain a mystery.
+
+... I'm not getting in there now!
+
+... I'm better off avoiding them.
+
+That's a clean sink.
+
+It closes to keep water from splashing out.
+
+It's holding the door open.
+
+I'll just take one.
+
+"It cleans deep down in your skin"
+
+"and removes dirt and grime from your pores"
+
+"smooth as your skin's ever been"
+
+"Use oxy-cill."
+
+Hmm. That last line just doesn't work.
+
+... looking good.
+
+I haven't looked in here for a while...
+
+These things really cleanse deep!
+
+... I think one should be enough.
+
+I think just one pad should be enough.
+
+I'm not crazy.
+
+It's a fixture.
+
+A perfect day for a sweet game of Slackmaster!
+
+I'm not sure this one opens...
+
+It leads back to the hallway.
+
+... it's not going anywhere.
+
+... it's a little scummy.
+
+I don't need the soap.
+
+I hope it's double-ply.
+
+I'm good.
+
+There's no need to have spare toilet paper on-hand.
+
+Always on duty.
+
+...nothing needs plunging.
+
+I'll leave that for any emergency flooding.
+
+That stuff doesn't look too interesting.
+
+That stuff doesn't really interest me...
+
+It belongs with the shower.
+
+It must be Thurston's bathrobe.
+
+I'm not sure when he started wearing one of those.
+
+Mabye I should just pick it up for now.
+
+Hey, it's my prescription strength facial cleanser!
+
+I should just pick one up.
+
+Looks like Thurston left his shower sponge out.
+
+It's already dry.
+
+I step on it all the time.
+
+It's useful where it is.
+
+I don't think I should move it around.
+
+I don't want to lug a bath mat around.
+
+That's the faucet for the sink.
+
+... why waste the water?
+
+It has things hanging on it occasionally.
+
+I don't have anything to hang there.
+
+... it's soap.
+
+There's no reason to panic...
+
+That's the faucet for the tub.
+
+I don't feel like running a bath...
+
+It puts out a good spray.
+
+... not now.
+
+That's our bathtub.
+
+... I don't need to run a bath.
+
+There's nothing in it.
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+toilet
+
+shower
+
+soap dish
+
+toilet paper
+
+toilet plunger
+
+bath mat
+
+tub
+
+shower head
+
+tub spout
+
+soap
+
+hook
+
+faucet
+
+medicine cabinet
+
+shower curtain
+
+bath robe
+
+facial cleansers
+
+sponge
+
+// **** room7.crm (space) MESSAGES ARE BELOW ****
+Skip Intro? (y/n)
+
+y
+
+Skip Beginning of game? (y/n)
+
+Skip to map? (y/n)
+
+Welcome to my DESIGN!
+
+Muhahahaha!1!!
+
+ESC to load, any other key to BEGIN!
+
+Right-click/ESC to skip cutscenes!
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+// **** room8.crm (guestroom) MESSAGES ARE BELOW ****
+... THAT WAS EXCITING.
+
+NOW LET'S GET CRACKIN' ON THAT HEARING AID!
+
+Maybe you left it in Thurston's room...?
+
+... EH?
+
+I don't have any clothes to put away.
+
+I don't have anything to put in it.
+
+What IS this thing?
+
+It leads back into the hall.
+
+It's a chest.
+
+With drawers.
+
+They add some color to the room.
+
+I don't want to make a mess in here.
+
+I'm sure they smell great.
+
+They don't need any encouragement
+
+They're doing just fine.
+
+It would be better to leave them in the water.
+
+It leads out into the hall.
+
+Looks like there is some strange garment in here.
+
+It some strange frilly garment.
+
+I've never seen anything like it.
+
+I guess Grandma and Grandpa will be sleeping here tonight.
+
+I don't feel like jumping on beds right now.
+
+It's too heavy to pick up.
+
+I don't want to mess around with any more windows.
+
+... I heard you coming a mile away!
+
+... yep!
+
+I LIKE TO BE ON MY FEET!
+
+I CAN'T HEAR ANYTHING!
+
+KNUCKLES LOVES THOSE SEEDS!
+
+It looks a little dried out.
+
+I don't know what to do with it.
+
+... Maybe I can knock a couple seeds off of it.
+
+Bingo.
+
+I'm not willing to carry a flower around.
+
+We've had that chair forever.
+
+I don't need to rest yet.
+
+A lonely island of carpet in a sea of wood flooring.
+
+I can walk on it anytime I want.
+
+I don't want to move it around.
+
+There's nothing under there.
+
+That must be some species of ivy.
+
+They look nice and fluffy.
+
+I'm not tired.
+
+I don't really need pillows.
+
+It looks warm.
+
+I'm not messing around with anymore bedspreads.
+
+... OH NO YOU DON'T!
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+chest o' drawers
+
+flowers
+
+sunflower
+
+pillows
+
+bedspread
+
+drawer
+
+granny bra
+
+// **** room9.crm (intro - empty) MESSAGES ARE BELOW ****
+Are we getting started here?
+
+I'm ready when you are!
+
+Man, that was a tough workout...
+
+I didn't even learn a finishing move...
+
+// **** HOTSPOT AND OBJECT NAMES. THESE ONLY NEED TO BE TRANSLATED ****
+// **** IF YOU ARE USING A LUCASARTS-STYLE STATUS LINE.            ****
+living room
+
+swinging door
+
+china cabinet
+
+dining room table
+
+// **** STRINGS FROM THE GLOBAL SCRIPT ARE BELOW ****
+I'm not sure what it is I'm looking at.
+
+I don't think I can do that.
+
+I don't feel like pushing that...
+
+I don't think I could pull that off.
+
+That's not needed.
+
+I can't open it.
+
+I can't close it.
+
+I don't think that needs comforting.
+
+That doesn't need to be covered.
+
+I don't want to tie it to that.
+
+That doesn't need to be smitten.
+
+That doesn't need deep cleansing action.
+
+I don't think that's a good spot for it.
+
+I'm going to save it for now.
+
+I want to keep the blade sharp.
+
+Somebody should want these.
+
+That wouldn't accomplish much.
+
+They wouldn't do any good there.
+
+I'd rather hold on to it.
+
+I don't want to get hung up on that.
+
+I don't feel like wiping that down.
+
+I don't need to glue that.
+
+I don't want to take any chances with this...
+
+That doesn't need greasin'.
+
+I'll just hang on to it.
+
+No need to smash it!
+
+That doesn't need a charge.
+
+I would prefer a flat surface...
+
+That doesn't need to eat dice.
+
+That would just be a mess.
+
+I don't want to waste it on that!
+
+I'm not through with it yet.
+
+They should take this up front.
+
+It only fits in the back.
+
+I should give this to someone.
+
+I'm not sure that would work.
+
+I don't want to waste a buck on that!
+
+I don't think I should leave him there.
+
+That doesn't need cooling.
+
+I don't want to leave it there.
+
+I need something to change back into!
+
+That can't hear!
+
+That wouldn't work.
+
+That wouldn't have much to say.
+
+I don't think I need that.
+
+I'm not sure what it is, but it's cool looking!
+
+That's ludicrous.
+
+I'm not that bored.
+
+That won't work.  Ignoramous.
+
+I can't pick that up.
+
+It appears to be alive.
+
+I .
+
+I don't want to push her.
+
+I could just talk to her...
+
+She won't need that.
+
+That doesn't make sense.
+
+There's no deal to close here!
+
+I'm not in the mood.
+
+I don't think she needs comforting.
+
+She doesn't need to be covered.
+
+I can't tie her up.
+
+She doesn't need to be smitten.
+
+She doesn't need deep cleansing action.
+
+She doesn't need a doorstop.
+
+No need for a stabbing.
+
+I don't think she needs these.
+
+She doesn't need to know I have this.
+
+She won't want these.
+
+She's fully dressed.
+
+She doesn't care about a hangar.
+
+She doesn't need wiping down.
+
+She doesn't need gluing.
+
+She doesn't need a cane...
+
+She doesn't need greasin'.
+
+She doesn't need it.
+
+She doesn't need these.
+
+She's not interested in a game.
+
+She doesn't deserve to eat dice.
+
+I'd rather keep it.
+
+I think I can take care of this.
+
+She doesn't need mass.
+
+No need to introduce them.
+
+She doesn't need cooling.
+
+I don't want to leave it with her...
+
+She doesn't need hearing aids!
+
+I don't think he needs comforting.
+
+He doesn't need to be covered.
+
+I can't tie him up.
+
+He doesn't need to be smitten.
+
+He doesn't need deep cleansing action.
+
+He doesn't need a doorstop.
+
+I don't think he needs these.
+
+He doesn't need to know I have this.
+
+He won't want these.
+
+He's fully dressed.
+
+He doesn't care about a hangar.
+
+He doesn't need wiping down.
+
+He doesn't need gluing.
+
+He doesn't need a cane...
+
+He doesn't need greasin'.
+
+He doesn't need it.
+
+He doesn't need these.
+
+He's not interested in a game.
+
+He doesn't deserve to eat dice.
+
+He doesn't need more mass.
+
+He doesn't need cooling.
+
+I don't want to leave it with him...
+
+He doesn't need hearing aids!
+
+I don't feel like giving out piggy backs.
+
+I couldn't lift him.
+
+This could come in handy.
+
+It wouldn't have much to say.
+
+That wouldn't be a good combination.
+
+... I'm going to have to get back to you on this.
+
+...yep, and a bird took his cane!
+
+... huh?
+
+... I was paying for the haute dog when I heard Grandpa hollering!
+
+I looked over, and saw him jumping up and down in a fit...
+
+... without his cane!
+
+... and what did he say happened?
+
+... he took the fifth.
+
+Creative.
+
+... ahh... Dexcalibur!
+
+... it has been too long!
+
+Yes, sir! ... Here you go!
+
+Enjoy!
+
+Right now, I'm working on the...
+
+... I'M NOT HEARING ANY HAMMING OUT THERE!
+
+ANOTHER DISTRACTION LIKE THAT...
+
+... AND YOU'LL HAVE ANOTHER ACCIDENT!
+
+... what was being built here again?
+
+Oh, well, it's going to be a...
+
+... WHY DO I NEED TO STAY ON YOU LIKE THIS?
+
+I'm not exactly...
+
+... BACK TO WORK!
+
+Oh, I've got a great STEW simmering for tonight...
+
+... it's a little greasy...
+
+... but I'll get some meat on those bones yet!
+
+I don't get outside much.
+
+It's go time!
+
+crow with cane
+
+Quincy
+
+... JUST HOLD IT RIGHT THERE, BOY!
+
+Woah!
+
+HEY, THIS THING WORKS GREAT!
+
+... oh, you wanna dance!
+
+... will you two knock it off!
+
+He pulled a knife on me!
+
+WHOOOOOP!
+
+Hold on a sec...
+
+... not long enough!
+
+Sure, I'll give you a holler!
+
+WHOOOOOOOOOOO-WHEEEEEEEEEEE!!
+
+Arggh...
+
+... my eyes!
+
+It feels great to be warm and ne-kid!
+
+... set it up for me!
+
+... that's nothin'!
+
+... I guess I can leave now.
+
+... just what I was thinking.
+
+DefaultAction
+
+ExtAction
+
+Walk to 
+
+Look at 
+
+Use 
+
+Open 
+
+Close 
+
+Give 
+
+Push 
+
+Pull 
+
+Talk to 
+
+Pick up 
+
+DefaultText
+
+Previous Row of Inventory
+
+Next Row of Inventory
+
+ with 
+
+ to 
+
+Time for a quick change.
+
+I don't need to put that on anymore.
+
+Let's see what's in here...
+
+I could use these batteries.
+
+I already took the batteries out.
+
+It's filled with ice.
+
+It's definitely not for me.
+
+I don't that needs opening.
+
+That's not called for...
+
+That doesn't need closing.
+
+I already have that.
+
+current
+
+Hmmm... it's not on.
+
+It's on...
+
+It's my stinky blanket.
+
+One blanket rope, ready for operation!
+
+It's my super-comfy comforter.
+
+Mmmm.  Pure cleanliness.
+
+Lovely.
+
+Hey Grandpa...
+
+EH? ...
+
+I'd rather not.
+
+Hey Mom...
+
+Yes?
+
+Hey Mom.
+
+Hi, honey.
+
+It should be able to support my weight.
+
+I haven't wielded dexcalibur since our last live-action Dungeon Slack campaign...
+
+Deep cleansing action at my fingertips!
+
+It's a rubber door stop.
+
+The blade looks sharp!
+
+These look really good.
+
+What a BIZARRE elastic device...
+
+... what could it possibly be used for?
+
+It's Thurston's bath robe.
+
+This wire hangar should come in handy.
+
+It's a dry sponge.
+
+Grandpa's had this cane forever.
+
+Hello hireling, I...
+
+BEHOLD!
+
+THE 7-LAYER HOTDOG!
+
+That's nice but I...
+
+MEAT, CHEESE, ONION, JALAPENO, RELISH, MUSHROOMS, AND CHILE!
+
+Ok, but really I...
+
+THE MOST DELICIOUS ENTREE ANY FOOD CONNOISSEUR COULD DREAM OF...
+
+VOTED BEST HOT DOG BY EVERY MAJOR PERIODICAL IN THE STATE...
+
+YOURS, FOR A SPECIAL SATURDAY MATINEE PRICE...
+
+... OF ONLY ONE DOLLAR!
+
+Are you done now.
+
+Yeah... I guess I am.
+
+Excuse me...
+
+... ready to buy a Haute Dog yet?
+
+Could I ask you a question?
+
+Shoot!
+
+I don't want to mess up his concentration.
+
+Could I talk to you for a minute?
+
+You know, I was like you once...
+
+Hello, worker...
+
+Oh, hey there kid...
+
+... WHAT'S THAT?
+
+DID YOU SMASH YOURSELF AGAIN?
+
+Say, worker...
+
+These old dice just couldn't crack my starting line-up!
+
+Alright babies, nothing but nat-twenties ok?
+
+This sling should do 1d6 + 1d4 + 1d20 points of damage.
+
+... I'll just scare him with a taste of my broadside!
+
+... that should be enough to get that cane down!
+
+... look at him flee!
+
+He enjoys his job.
+
+It's a squirt bottle filled with ketchup.
+
+It does look pretty good.
+
+Too bad it's a hotdog.
+
+I guess this might be more useful straightened out.
+
+There, it's now a straight, stiff wire.
+
+Hey Anderson, what are you doing here?
+
+Stupid karate lessons.
+
+Get me out of here.
+
+Hey, Rufus...
+
+... harumph.
+
+Ok, well I'll, uh...
+
+... see you later, then!
+
+... he doesn't like much attention.
+
+Who's a putty-tat!
+
+Here kitty-kitty...
+
+Watcha doin' Rufus...?
+
+Say, Gamekeep...
+
+It's a portable CD player.
+
+Hey, there's a free coupon for that Kaboom! stuff in here!
+
+I already ripped the Kaboom! coupon out.
+
+It's today's copy of the local newspaper.
+
+I found a coupon in the paper for that Kaboom! stuff over there!
+
+Cool!
+
+... I knew you were looking to beef up!
+
+Grab one from the display over there...
+
+Don't worry, sport...
+
+... you'll be up to a buck-fifty in no time!
+
+This is so humiliating...
+
+Say... this could make a good sling!
+
+Maybe he'll give up that last drink...
+
+... if he gets a taste of Kaboom! again!
+
+That tasted funny...
+
+Wooooo-hooooooooooooo!
+
+I guess that worked...
+
+... look what I found!
+
+... BUT... HOW DID YOU KILL THAT BIRD?
+
+I didn't!  I just had to think a litt--
+
+COOL!
+
+... I JUST HOPE HE WAS ALIVE LONG ENOUGH TO FEEL IT!
+
+NOW COME HELP OL' GRAMPS UP TO THE GUESTROOM...
+
+... YOU CAN HELP ME FIND MY HEARING AID TOO!
+
+... nothing good happens when I get distracted!
+
+OMG!! You whacked your hand!.
+
+WAAAAAAAAA-
+
+-AAAAAAAAAAAA-!
+
+-AAAAAAAHHH!
+
+He'd fall for that one...
+
+... but I can't let him see me do it!
+
+I'd like to get one of those hotdogs now...
+
+... here's the money!
+
+Guess what I'M having for lunch today...
+
+... a 7-LAYER hotdog.
+
+... a triumph of fine junk-food dining!
+
+I'll TRADE you this calorie-laden monstrosity...
+
+... for whatever you've got in that cooler!
+
+... hmm.
+
+... that doesn't seem appealing to me!
+
+... a deal has been struck!
+
+I've got this card for a free personal--
+
+... Personal training session!
+
+With me?
+
+ALRIGHT!
+
+Let's just get this over with, ok?
+
+Let's do this!
+
+I found your hearing aid...
+
+... you left it in Thurston's room!
+
+I DID...?
+
+... THIS DOESN'T HAVE ANY BATTERIES!
+
+CAN'T YOU ROUND UP A COUPLE BATTERIES?
+
+All this for a dollar...
+
+I should wait until she's finished vacuuming.
+
+... you want some seed, Knuckles?
+
+Then come on out of your cage and get it!
+
+... are you still hungry?
+
+Ouch!  Ow!  Oooh!
+
+Squawk.
+
+I should open his cage first.
+
+He's not able to communicate right now.
+
+It should work fine now!
+
+It should work now.
+
+Ok, here's your hearing aid...
+
+... WITH batteries this time...
+
+It's a miracle, I can hear again!
+
+Now, about that DOLLAR you owe me...
+
+... time to pay the piper!
+
+You need a dollar...?
+
+You just had to ask, boy!
+
+Hey Knuckles...
+
+... yes? 
+
+He doesn't really let me touch him...
+
+... but he knows who's boss!
+
+I should open the cage door first.
+
+... I don't want to get him angry!
+
+He's very self-sufficient.
+
+Hey bird!
+
+Give me that cane!
+
+I don't think he's listening to me.
+
+Hey Jackson...
+
+... KEEP YOUR HANDS OFF ME!
+
+That is a noisy one...
+
+... you're coming with me, whether you like it or not!
+
+... no, NO, GET AWAY!
+
+... that's a good spot for it.
+
+... I guess it's watching over the lot.
+
+I've got it sitting in the vent now.
+
+I'm not close enough to use it...
+
+... is that all you have to say?
+
+He doesn't appear susceptible to physical attacks.
+
+I don't see a way to open it.
+
+I couldn't give him away.
+
+... I'LL SHOW YOU WHAT PAIN IS!
+
+He doesn't need more mockery.
+
+I don't see a way to open that.
+
+Hey Grandma...
+
+Hey Jackson.
+
+... I think I found the missing ingredient for your brownies!
+
+Wha--!
+
+... but where did you fi--
+
+Err, I mean...
+
+This could be a suitable replacement for my secret ingredient!
+
+Soo... you'll make your brownies today, right?
+
+Sure! Let me just finish chopping these vegetables...
+
+... then I'll get started on the brownies!
+
+Sweet!
+
+... AND, since you were such a big help for me...
+
+... go tell your Grandfather to give you a DOLLAR!
+
+That can be a little present from me to you...
+
+... but Grandpa lost his--
+
+Oh don't worry, I know he's good for it!
+
+Now run along, I've got a lot of cooking to do!
+
+He looks busy...
+
+... I can't reach him up there!
+
+... I can't touch him up there!
+
+There must be something he'd prefer besides cane.
+
+It's a shiny quarter.
+
+'... WARNING: not to be mixed with other stimulants.
+
+I throw like a girl...
+
+It's a coupon for Kaboom! that was in the paper.
+
+I need some sort of ranged weapon...
+
+... would you trade that cane for some seed?
+
+Guess he's not interested.
+
+He doesn't look like he reads the paper much.
+
+I grabbed a handful.
+
+It has some grease on it now.
+
+It's a solid looking piece of wood.
+
+Hmm... It doesn't have any batteries...
+
+I know they have some juice left in them.
+
+That's some powerful supplement you got there!
+
+'Gamekeep Mix, Volume 1'
+
+Chocolate and caffeine, what a combination!
+
+It's the CD player, sans disc.
+
+There's no CD to listen to.
+
+It doesn't have any batteries.
+
+Maybe there's something else I can grab from this...
+
+... these batteries might be useful!
+
+There's nothing more to take out of it.
+
+He was starting to get on my nerves...
+
+It's filled with ice to keep it cool.
+
+it's not close enough to converse with...
+
+... it's not in the mood for a rational discussion.
+
+It doesn't need more mockery.
+
+I may have a better use for them...
+
+Morry!
+
+... did you have a question?
+
+... I'm not ready to have a personal trainer.
+
+I don't think I can muscle him around.
+
+... he's focused on fitness.
+
+... she does love to vacuum.
+
+... I can't reach the cane from here.
+
+... he looks gullible.
+
+He's too big too shove around.
+
+He's giving it his all.
+
+He wouldn't stand for it.
+
+I'll let her handle the vacuuming.
+
+I give her affection all the time.
+
+No need to take over the vacuuming...
+
+He looks spry and chipper this morning...
+
+He's entranced with the programming.
+
+He's only really good for GM'ing...
+
+He's very sensitive to that sort of thing.
+
+... he doesn't want my attention.
+
+He's taking in a beverage at the park.
+
+He's sitting down right now.
+
+I don't know him that well.
+
+I don't think he needs anything.
+
+I should talk to him...
+
+He's behind the counter.
+
+He's interested in money.
+
+He's not very mobile without the cane.
+
+He's content stretching his legs.
+
+He's useless without his hearing aid.
+
+I'd rather just find his cane...
+
+... it's better to ignore him.
+
+... I don't need to move him.
+
+Generally, he's self-sufficient...
+
+I don't think he needs more attention.
+
+Finding his cane would be easier...
+
+... I'm not giving out piggy-backs.
+
+She's busy chopping on the cutting board...
+
+I don't want to interfere.
+
+I'm trying to stay out of her way.
+
+... if I were her ingredient, she'd be interested.
+
+No need to try that.
+
+He's definitely alert.
+
+He really looks excited...
+
+I'm not ready for a personal trainer!
+
+He has a lot of toys to play with in his cage.
+
+... he's feeding.
+
+He's sleeping right now.
+
+... he's past where Mom was vacuuming.
+
+... he's over by the kitchen door.
+
+What a handsome kitty!
+
+He's intructing the class.
+
+... he's looking agitated.
+
+He looks a little high-strung.
+
+He's KO'd.
+
+He skilled in hand-to-hand combat!
+
+He'd smash me!
+
+He doesn't look very receptive.
+
+He'd smash me if I'd try that!
+
+He looks frustratingly calm!
+
+I'm not touching his sweaty, naked skin!
+
+He's too big to move around!
+
+... he's not interested in anything.
+
+I'm not sure what he was thinking.
+
+He could use cooling down.
+
+// **** GUI LABELS AND BUTTONS ARE BELOW ****
+Walk to
+
+New Button
+
+// **** CHARACTER NAMES ARE BELOW ****
+Jackson
+
+Mom
+
+Knuckles
+
+Rufus the Aloofest
+
+Grandpa
+
+Grandma
+
+Thurst-o
+
+hireling
+
+fitness professional
+
+laborer
+
+pedestrian
+
+crazed martial arts guy
+
+bird / cane
+
+Morry
+
+the Cerebrit
+
+walkie-talkie
+
+Anderson
+
+Gamekeep
+
+male student
+
+old lady student
+
+// **** INVENTORY ITEM NAMES ARE BELOW ****
+comforter
+
+blanket rope
+
+dexcalibur
+
+facial cleanser pad
+
+super-mocha-caffaccino
+
+greasy sponge
+
+batteries
+
+dice
+
+double barrelled sling
+
+ketchup bottle
+
+seven layer hotdog
+
+25-Hour Fitness card
+
+coupon
+
+Kaboom!
+
+dollar
+
+hearing aid
+
+hearing aid w/ batteries
+
+CD-R
+
+open CD player
+
+!!!EOF *** DO NOT REMOVE THIS LINE ***

@@ -1,0 +1,23 @@
+(in room 1): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 1): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 1): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 22): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 22): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 17): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 17): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 3): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 3): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 22): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 22): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 13): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 18): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 18): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 18): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 10): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 17): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 17): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 13): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 13): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 17): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored
+(in room 22): Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
+(in room 22): SetCharacterIdle called while character view locked with SetCharacterView; idle ignored

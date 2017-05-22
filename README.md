@@ -1,4 +1,9 @@
-[==============================================]
+![NAJ](/docs/header.jpg)
+
+header 1 | header 2
+_____________________
+
+![NAJ](/docs/images/dojo.gif) | [==============================================]
 
 	No-Action Jackson Beta 1
 
@@ -28,11 +33,6 @@ www.agsforums.com
 
 ALL RIGHTS RESERVED.  USE SOFTWARE AT YOUR OWN RISK.
 
+![NAJ](/docs/images/hallway.gif) | 
 
-![NAJ](/docs/header.jpg)
-
-![NAJ](/docs/images/dojo.gif)
-
-![NAJ](/docs/images/hallway.gif)
-
-![NAJ](/docs/images/park.gif)
+![NAJ](/docs/images/park.gif) |

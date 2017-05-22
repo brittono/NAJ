@@ -1,1 +1,1 @@
-![NAJ](/docs/images/dojo.png)
+![NAJ](/docs/images/dojo.gif)

@@ -1,7 +1,6 @@
+![NAJ](/docs/header.jpg)
+
 <table>
-
-<tr><td colspan=2>![NAJ](/docs/header.jpg)</td></tr>
-
 <tr><td>
 
 ![NAJ](/docs/images/dojo.gif) 

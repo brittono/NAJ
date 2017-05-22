@@ -1,1 +1,1 @@
-![NAJ](http://brittono.github.io/NAJ/images/dojo.png)
+![NAJ](/docs/images/dojo.png)

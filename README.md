@@ -1,1 +1,1 @@
-![GitHub Logo](/images/dojo.png)
+![NAJ](http://brittono.github.io/NAJ/images/dojo.png)

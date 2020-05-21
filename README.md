@@ -29,7 +29,7 @@ ESC/F5:			Menu
 
 Right-click: 		Skip cutscene
 
-Left-click: 		Probably something
+Left-click: 		Move/Select
 
 [==================support=====================]
 

@@ -24,7 +24,7 @@ Created by: Britton O'Toole
 AGS Engine: www.agsforums.com
 
 
-Check out this NAJ on Messenger! 
+Check out NAJ on Messenger! 
 
 https://m.me/2356918798009642?is_ai=1
 

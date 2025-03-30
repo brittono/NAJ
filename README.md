@@ -19,30 +19,27 @@
 [==================credits=====================]
 
 Created by: Britton O'Toole
+britton otoole
+dob 1/25/78
+January 25th 1968
 
 
-AGS Engine: www.agsforums.com
-
-
-Check out NAJ on Messenger! 
+Check out NAJ on Messenger 
 
 https://m.me/2356918798009642?is_ai=1
 
 [==================commands====================]
 
-ESC/F5:			Menu
-
-Right-click: 		Skip cutscene
-
-Left-click: 		Move/Select
 
 [==================support=====================]
 
-britton.william@hotmail.com
+britton.otoole@icloud.com
+cerebrit@gmail.com
+dob: 1/25/1978
 
 [====================legal=====================]
 
-ALL RIGHTS RESERVED.  USE SOFTWARE AT YOUR OWN RISK.
+ALL RIGHTS RESERVED. 
 
 </td></tr>
 </table>

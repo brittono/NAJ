@@ -12,6 +12,27 @@
 </td>
 <td>
 
+# No-Action Jackson 🎮
+
+**No-Action Jackson** is an HTML/JS game you can play right in your browser!
+
+## Play Online
+[![Play Now](https://img.shields.io/badge/Play-Online-brightgreen?style=for-the-badge&logo=html5)](https://brittono.github.io/NAJ/)
+
+## About
+*Brief description of your game goes here…*
+
+- Built with HTML, CSS, and JavaScript
+- Single-player browser game
+- Fun and addictive gameplay!
+
+## How to Run Locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/brittono/NAJ.git
+
+
+
 [==============================================]
 
 	No-Action Jackson
